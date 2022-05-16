@@ -38,7 +38,7 @@ client.orchestrate {
     }
 }
 ```
-
+## Action extensions
 ```kotlin
 val topic = "my_topic"
 client.subscribe(topic, 1) {

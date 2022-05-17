@@ -1,4 +1,14 @@
-# mqtt-kotlin-extensions
+# MQTT Kotlin Extensions
+
+## Import
+```kotlin
+repositories { 
+   mavenCentral()
+}
+
+implementation 'io.github.tabilzad:mqtt-kotlin-extensions:1.0'
+    
+```
 
 ## Connection Extensions
 
